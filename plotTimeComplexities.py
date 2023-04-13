@@ -3,7 +3,7 @@
 #   plotTimeComplexities.py
 #
 #	Project 1
-#	COP 4531
+#	Data Structures & Algorithms
 #	Wendy Slattery
 #	3/8/20
 #
