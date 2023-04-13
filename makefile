@@ -1,5 +1,5 @@
 #
-# COP 4531 Project 1
+# Data Structures & Algorithms, Project 1
 # Wendy Slattery
 # 3/1/20
 #
