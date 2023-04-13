@@ -1,7 +1,7 @@
 /*
  *bucketSort.cpp
  *
- * COP 4531, Project 1
+ * Data Structures and Algorithms, Project 1
  * Wendy Slattery
  * 3/5/20
  *
